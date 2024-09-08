@@ -16,17 +16,32 @@ Experienced Systems Administrator with 5+ years in IT infrastructure management.
 
 ---
 
-### 🎓 Education
+### 🛠️ Skills
 
-- **BSc (Hons) in Computer Networks & Security**  
-  Wrexham Glyndwr University, UK (2022)  
-  Key Courses: Network Security, Cloud Computing, Ethical Hacking
+- **Technical Skills**:  
+  ![Cisco](https://img.shields.io/badge/CISCO-Routing%20%26%20Switching-blue?style=flat-square&logo=cisco&logoColor=white)
+  ![HP](https://img.shields.io/badge/HP-Switch%20Configuration-blue?style=flat-square&logo=hp&logoColor=white)
+  ![Windows Server](https://img.shields.io/badge/Windows%20Server-Administration-blue?style=flat-square&logo=microsoft&logoColor=white)
+  ![Unifi](https://img.shields.io/badge/Access%20Point-Unifi-blue?style=flat-square&logo=ubiquiti&logoColor=white)
+  ![FortiGate](https://img.shields.io/badge/Firewall-FortiGate-blue?style=flat-square&logo=fortinet&logoColor=white)
+  ![Pfsense](https://img.shields.io/badge/Firewall-Pfsense-blue?style=flat-square&logo=pfsense&logoColor=white)
+  ![AWS](https://img.shields.io/badge/Cloud-AWS-blue?style=flat-square&logo=amazonaws&logoColor=white)
+  ![Azure](https://img.shields.io/badge/Cloud-Azure-blue?style=flat-square&logo=microsoftazure&logoColor=white)
+  ![M365](https://img.shields.io/badge/Microsoft%20365-M365-blue?style=flat-square&logo=microsoft&logoColor=white)
+  ![SentinelOne](https://img.shields.io/badge/Endpoint%20Security-SentinelOne-blue?style=flat-square&logo=sentinelone&logoColor=white)
+  ![Google Workspace](https://img.shields.io/badge/Google%20Workspace-Google%20Workspace-blue?style=flat-square&logo=google&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-Linux-blue?style=flat-square&logo=linux&logoColor=white)
+  ![MacOS](https://img.shields.io/badge/MacOS-MacOS-blue?style=flat-square&logo=apple&logoColor=white)
+  ![Windows](https://img.shields.io/badge/Windows-Windows-blue?style=flat-square&logo=microsoft&logoColor=white)
 
-- **Diploma in Cyber Security and Ethical Hacking**  
-  NextGen Campus, Sri Lanka (2021)
-
-- **Diploma in Computer Hardware Engineering and Networking**  
-  Sri Lanka Youth Vocational Training Center (2020)
+- **Soft Skills**:  
+  ![Time Management](https://img.shields.io/badge/Time%20Management-✅-blue?style=flat-square)
+  ![Communication](https://img.shields.io/badge/Communication-✅-blue?style=flat-square)
+  ![Leadership](https://img.shields.io/badge/Leadership-✅-blue?style=flat-square)
+  ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-✅-blue?style=flat-square)
+  ![Analytical Thinking](https://img.shields.io/badge/Analytical%20Thinking-✅-blue?style=flat-square)
+  ![Collaboration](https://img.shields.io/badge/Collaboration-✅-blue?style=flat-square)
+  ![Team Player](https://img.shields.io/badge/Team%20Player-✅-blue?style=flat-square)
 
 ---
 
@@ -53,6 +68,19 @@ Experienced Systems Administrator with 5+ years in IT infrastructure management.
 *Kaatsu International University* — May 2019 - May 2020  
 - Delivered hardware and software support and trained end-users.
 - Administered computer networks and enforced security protocols.
+
+---
+### 🎓 Education
+
+- **BSc (Hons) in Computer Networks & Security**  
+  Wrexham Glyndwr University, UK (2022)  
+  Key Courses: Network Security, Cloud Computing, Ethical Hacking
+
+- **Diploma in Cyber Security and Ethical Hacking**  
+  NextGen Campus, Sri Lanka (2021)
+
+- **Diploma in Computer Hardware Engineering and Networking**  
+  Sri Lanka Youth Vocational Training Center (2020)
 
 ---
 
@@ -88,41 +116,11 @@ Experienced Systems Administrator with 5+ years in IT infrastructure management.
 
 ---
 
-### 🛠️ Skills
-
-- **Technical Skills**:  
-  ![Cisco](https://img.shields.io/badge/CISCO-Routing%20%26%20Switching-blue?style=flat-square&logo=cisco&logoColor=white)
-  ![HP](https://img.shields.io/badge/HP-Switch%20Configuration-blue?style=flat-square&logo=hp&logoColor=white)
-  ![Windows Server](https://img.shields.io/badge/Windows%20Server-Administration-blue?style=flat-square&logo=microsoft&logoColor=white)
-  ![Unifi](https://img.shields.io/badge/Access%20Point-Unifi-blue?style=flat-square&logo=ubiquiti&logoColor=white)
-  ![FortiGate](https://img.shields.io/badge/Firewall-FortiGate-blue?style=flat-square&logo=fortinet&logoColor=white)
-  ![Pfsense](https://img.shields.io/badge/Firewall-Pfsense-blue?style=flat-square&logo=pfsense&logoColor=white)
-  ![AWS](https://img.shields.io/badge/Cloud-AWS-blue?style=flat-square&logo=amazonaws&logoColor=white)
-  ![Azure](https://img.shields.io/badge/Cloud-Azure-blue?style=flat-square&logo=microsoftazure&logoColor=white)
-  ![M365](https://img.shields.io/badge/Microsoft%20365-M365-blue?style=flat-square&logo=microsoft&logoColor=white)
-  ![SentinelOne](https://img.shields.io/badge/Endpoint%20Security-SentinelOne-blue?style=flat-square&logo=sentinelone&logoColor=white)
-  ![Google Workspace](https://img.shields.io/badge/Google%20Workspace-Google%20Workspace-blue?style=flat-square&logo=google&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-Linux-blue?style=flat-square&logo=linux&logoColor=white)
-  ![MacOS](https://img.shields.io/badge/MacOS-MacOS-blue?style=flat-square&logo=apple&logoColor=white)
-  ![Windows](https://img.shields.io/badge/Windows-Windows-blue?style=flat-square&logo=microsoft&logoColor=white)
-
-- **Soft Skills**:  
-  ![Time Management](https://img.shields.io/badge/Time%20Management-✅-blue?style=flat-square)
-  ![Communication](https://img.shields.io/badge/Communication-✅-blue?style=flat-square)
-  ![Leadership](https://img.shields.io/badge/Leadership-✅-blue?style=flat-square)
-  ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-✅-blue?style=flat-square)
-  ![Analytical Thinking](https://img.shields.io/badge/Analytical%20Thinking-✅-blue?style=flat-square)
-  ![Collaboration](https://img.shields.io/badge/Collaboration-✅-blue?style=flat-square)
-  ![Team Player](https://img.shields.io/badge/Team%20Player-✅-blue?style=flat-square)
-
----
-
 ### 🌟 Awards
 
 - **Calcey Technologies** (2022)  
-  Honored for exceptional dedication and surpassing expectations, contributing significantly to company growth.
-
----
+  Awarded for positive contribution to the company by going above and beyond
+--
 
 ### 🌟 Recommendations
 
@@ -161,7 +159,14 @@ View or download my resume here: [LinkedIn Resume](https://www.linkedin.com/in/i
 
 ### 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ishan%20Udayanga-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishan-udayanga/)  
-[![Email](https://img.shields.io/badge/Email-iishanudayanga@gmail.com-orange?style=flat-square&logo=gmail&logoColor=white)](mailto:iishanudayanga@gmail.com)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-0714033631-brightgreen?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/94714033631)
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/ishan-udayanga/">
+    <img src="https://img.shields.io/badge/LinkedIn-Ishan%20Udayanga-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:iishanudayanga@gmail.com">
+    <img src="https://img.shields.io/badge/Email-iishanudayanga@gmail.com-orange?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://wa.me/94714033631">
+    <img src="https://img.shields.io/badge/WhatsApp-0714033631-brightgreen?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+</p>
