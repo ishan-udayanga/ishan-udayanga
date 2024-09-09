@@ -74,8 +74,7 @@ Experienced Systems Administrator with 5+ years in IT infrastructure management.
 
 - **BSc (Hons) in Computer Networks & Security**  
   Wrexham Glyndwr University, UK (2022)  
-  Key Courses: Network Security, Cloud Computing, Ethical Hacking
-
+  
 - **Diploma in Cyber Security and Ethical Hacking**  
   NextGen Campus, Sri Lanka (2021)
 
