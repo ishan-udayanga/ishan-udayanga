@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me
 
-Experienced Systems Administrator with 5+ years in IT infrastructure management. Expert in deploying and managing operating systems, servers, and networks to boost efficiency. Skilled in troubleshooting complex issues, enforcing security, and ensuring system uptime. Proven team player with a knack for adapting to new technologies. Currently optimizing cloud resources and enhancing IT infrastructure at **Calcey Technologies**.
+Experienced IT Professional with over 10+ years of expertise in IT support, system administration, and network management. Proven ability to support 200+ users, ensuring seamless IT operations, troubleshooting technical issues, and optimizing system performance. Skilled in managing complex IT systems, network architecture, and cloud infrastructure, with a track record of achieving 99.8% system uptime, reducing support response times by 40%, and cutting cloud costs by 20%. Adept at delivering secure, high-performing technology solutions, with strong cybersecurity, cloud computing, and IT infrastructure knowledge. Passionate about driving operational excellence and contributing to dynamic IT teams. at **Trasna Solutions**.
 
 - 🔭 **Current Role**: IT Administrator at Trasna
 - 🌱 **Currently Learning**: Cyber Security | Network Technology | Cloud Computing
