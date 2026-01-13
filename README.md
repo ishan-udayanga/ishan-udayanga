@@ -181,4 +181,7 @@ View or download my resume here: [LinkedIn Resume](https://www.linkedin.com/in/i
   <a href="https://wa.me/94714033631">
     <img src="https://img.shields.io/badge/WhatsApp-0714033631-brightgreen?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
+    <a href="https://wa.me/+971501530950">
+    <img src="https://img.shields.io/badge/WhatsApp-0714033631-brightgreen?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>  
 </p>
