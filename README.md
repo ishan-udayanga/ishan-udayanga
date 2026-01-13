@@ -8,7 +8,7 @@
 
 Experienced Systems Administrator with 5+ years in IT infrastructure management. Expert in deploying and managing operating systems, servers, and networks to boost efficiency. Skilled in troubleshooting complex issues, enforcing security, and ensuring system uptime. Proven team player with a knack for adapting to new technologies. Currently optimizing cloud resources and enhancing IT infrastructure at **Calcey Technologies**.
 
-- 🔭 **Current Role**: Systems Administrator at Calcey Technologies
+- 🔭 **Current Role**: IT Administrator at Trasna
 - 🌱 **Currently Learning**: Cyber Security | Network Technology | Cloud Computing
 - 💬 **Ask Me About**: Cloud Solutions (AWS/Azure), Network Architecture, Firewall Management, and Cybersecurity
 - 📫 **Connect With Me**: [LinkedIn](https://www.linkedin.com/in/ishan-udayanga/) Or [Email](mailto:iishanudayanga@gmail.com)
