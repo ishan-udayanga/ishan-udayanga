@@ -61,7 +61,7 @@ Experienced Systems Administrator with 5+ years in IT infrastructure management.
 - Tested systems for security vulnerabilities
   
 #### **Systems Administrator**  
-*Calcey Technologies* — Jan 2024 - Present  
+*Calcey Technologies* — Jan 2024 - Dec 2024  
 - Designed and implemented scalable network architecture and optimized cloud resources.
 - Addressed technical issues to ensure uninterrupted system availability.
 - Spearheaded security best practices and compliance, including ISO 27001:2022.
