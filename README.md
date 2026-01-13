@@ -47,6 +47,19 @@ Experienced Systems Administrator with 5+ years in IT infrastructure management.
 
 ### 💼 Professional Experience
 
+#### **IT Administrator**  
+*Trasna* — Jaun 2025 - Present  
+- Provided technical support to users onsite and remotely
+- Set up computers with operating systems, software, and network connections
+- Fixed hardware and software problems to keep systems running
+- Backed up data daily and planned for system recovery
+- Helped build and maintain servers and network infrastructure
+- Tracked IT equipment and managed software licenses
+- Set up user accounts, Microsoft 365, VPN, email, and file access
+- Maintained cloud services, firewalls, printers, and network equipment
+- Ensured compliance with security standards (ISO 27001, GSMA, TAPA)
+- Tested systems for security vulnerabilities
+  
 #### **Systems Administrator**  
 *Calcey Technologies* — Jan 2024 - Present  
 - Designed and implemented scalable network architecture and optimized cloud resources.
